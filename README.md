@@ -1,6 +1,3 @@
-
-Aqui está uma sugestão de texto para o README.md do seu projeto Streamlit, mantendo o tom profissional e técnico que você já utiliza nos outros repositórios, como exemplificado em "image_cb2c40.png".
-
 🚚 Embarque Controlado: Dashboard de Qualidade e Rastreabilidade
 Este é um projeto desenvolvido em Python utilizando o framework Streamlit, focado na visualização de dados de processos industriais. O objetivo deste dashboard é transformar dados brutos de produção em indicadores estratégicos (KPIs), permitindo um monitoramento em tempo real do controle de qualidade, retrabalho e rastreabilidade de máquinas.
 
